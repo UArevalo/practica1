@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/roseus/ros/practica1/manifest.l

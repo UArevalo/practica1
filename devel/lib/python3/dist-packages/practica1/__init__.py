@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/practica1/lib/python3/dist-packages/practica1/__init__.py

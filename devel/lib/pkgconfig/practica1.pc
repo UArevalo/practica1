@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/practica1/lib/pkgconfig/practica1.pc

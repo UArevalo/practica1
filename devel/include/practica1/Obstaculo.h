@@ -1,0 +1,1 @@
+/home/laboratorio/ros_workspace/devel/.private/practica1/include/practica1/Obstaculo.h

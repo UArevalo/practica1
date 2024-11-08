@@ -1,0 +1,8 @@
+prefix=/home/laboratorio/ros_workspace/devel/.private/practica1
+
+Name: practica1
+Description: Description of practica1
+Version: 0.0.0
+Cflags: -I/home/laboratorio/ros_workspace/devel/.private/practica1/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs geometry_msgs message_runtime

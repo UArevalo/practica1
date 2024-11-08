@@ -1,0 +1,20 @@
+practica1
+/home/laboratorio/ros_workspace/devel/.private/practica1/cmake.lock /home/laboratorio/ros_workspace/devel/./cmake.lock
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/practica1/cmake/practica1-msg-extras.cmake /home/laboratorio/ros_workspace/devel/share/practica1/cmake/practica1-msg-extras.cmake
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/practica1/cmake/practica1Config.cmake /home/laboratorio/ros_workspace/devel/share/practica1/cmake/practica1Config.cmake
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/practica1/cmake/practica1Config-version.cmake /home/laboratorio/ros_workspace/devel/share/practica1/cmake/practica1Config-version.cmake
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/practica1/cmake/practica1-msg-paths.cmake /home/laboratorio/ros_workspace/devel/share/practica1/cmake/practica1-msg-paths.cmake
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/gennodejs/ros/practica1/_index.js /home/laboratorio/ros_workspace/devel/share/gennodejs/ros/practica1/_index.js
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/gennodejs/ros/practica1/msg/Obstaculo.js /home/laboratorio/ros_workspace/devel/share/gennodejs/ros/practica1/msg/Obstaculo.js
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/gennodejs/ros/practica1/msg/_index.js /home/laboratorio/ros_workspace/devel/share/gennodejs/ros/practica1/msg/_index.js
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/roseus/ros/practica1/manifest.l /home/laboratorio/ros_workspace/devel/share/roseus/ros/practica1/manifest.l
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/roseus/ros/practica1/msg/Obstaculo.l /home/laboratorio/ros_workspace/devel/share/roseus/ros/practica1/msg/Obstaculo.l
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/common-lisp/ros/practica1/msg/Obstaculo.lisp /home/laboratorio/ros_workspace/devel/share/common-lisp/ros/practica1/msg/Obstaculo.lisp
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/common-lisp/ros/practica1/msg/_package_Obstaculo.lisp /home/laboratorio/ros_workspace/devel/share/common-lisp/ros/practica1/msg/_package_Obstaculo.lisp
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/common-lisp/ros/practica1/msg/_package.lisp /home/laboratorio/ros_workspace/devel/share/common-lisp/ros/practica1/msg/_package.lisp
+/home/laboratorio/ros_workspace/devel/.private/practica1/share/common-lisp/ros/practica1/msg/practica1-msg.asd /home/laboratorio/ros_workspace/devel/share/common-lisp/ros/practica1/msg/practica1-msg.asd
+/home/laboratorio/ros_workspace/devel/.private/practica1/lib/python3/dist-packages/practica1/__init__.py /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/practica1/__init__.py
+/home/laboratorio/ros_workspace/devel/.private/practica1/lib/python3/dist-packages/practica1/msg/__init__.py /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/practica1/msg/__init__.py
+/home/laboratorio/ros_workspace/devel/.private/practica1/lib/python3/dist-packages/practica1/msg/_Obstaculo.py /home/laboratorio/ros_workspace/devel/lib/python3/dist-packages/practica1/msg/_Obstaculo.py
+/home/laboratorio/ros_workspace/devel/.private/practica1/lib/pkgconfig/practica1.pc /home/laboratorio/ros_workspace/devel/lib/pkgconfig/practica1.pc
+/home/laboratorio/ros_workspace/devel/.private/practica1/include/practica1/Obstaculo.h /home/laboratorio/ros_workspace/devel/include/practica1/Obstaculo.h
